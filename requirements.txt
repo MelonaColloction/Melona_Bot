@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+web3==6.11.1
+requests==2.31.0
+flask==3.0.0
+psycopg2-binary==2.9.9
